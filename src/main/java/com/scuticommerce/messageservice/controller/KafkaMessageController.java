@@ -19,6 +19,7 @@ import java.util.concurrent.CountDownLatch;
 public class KafkaMessageController {
 
     public static final String PRODUCTQUEUE = "productqueue";
+
     @Autowired
     KafkaTemplate template;
 
