@@ -14,6 +14,10 @@
     <name>messageservice</name>
     <description>Microservice for Kafka Messages</description>
     <dependencies>
-
+        <dependency>
+            <groupId>com.scuticommerce</groupId>
+            <artifactId>core</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 </project>
